@@ -10,9 +10,9 @@ from PyQt5.QtGui import *
 from PyQt5.QAxContainer import *
 from tkinter import messagebox
 
-strDemoId = '20181373'
-strDemoPwd = 'eugenegn1!@'
-strPwd = 'eugene14!!'
+strDemoId = ''
+strDemoPwd = ''
+strPwd = ''
 g_DStockType = []  # 국내 주야간구분
 g_DStockKey = []  # 국내 종목 Key
 g_DStockCode = []  # 국내 종목코드
